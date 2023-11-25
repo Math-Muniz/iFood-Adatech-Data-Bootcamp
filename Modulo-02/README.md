@@ -4,7 +4,7 @@
 </p>
 <h2 align="center">Conteúdo do Módulo:</h2>
 <ul>
-  <li>Tuplas;;</li>
+  <li>Tuplas;</li>
   <li>Dicionários;</li>
   <li>Compreensão de listas e expressões geradoras;</li>
   <li>Parâmetros e retorno de funções;</li>
