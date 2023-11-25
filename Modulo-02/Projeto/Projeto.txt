@@ -1,0 +1,25 @@
+Ler uma lista de objetos de um JSON;
+
+Realizar um mapeamento, um filtro e uma redução;
+
+Permitir que os dados possam ser lidos individualmente, atualizados e deletados (manter JSON atualizado);
+
+Garantir que todas as operações tenham validações (try-except, raise);
+
+Obter algum dado estatístico simples, como média de um grupo (exemplo, a média de idade dos professores que dão aula de exatas, caso o conjunto de dados seja do tema professores);
+
+Criar uma função para obter uma lista de tuplas, com o máximo (ou o mínimo) valor de algum atributo numérico, com o primeira posição contendo o nome do elemento e a segunda o valor máximo (o motivo de ser lista é porque pode ter mais de um elemento com valor máximo);
+
+Esta função deve ter um parâmetro opcional, que diz qual das estatísticas você deseja obter (mínimo ou máximo);
+
+Obter algum dado estatístico simples, como média, máximo e mínimo (exemplo, a média de idade dos professores que dão aula de exatas, caso o conjunto de dados seja do tema professores);
+
+Salvar dados estatísticos em um CSV.
+
+---------------------------------------------
+
+Grupos com 5 pessoas 
+
+Apresentar no dias 22/11 - Apresentação COMERCIAL/TÉCNICA em 7 ~10 Min.
+
+Entrega via git até 24/11
