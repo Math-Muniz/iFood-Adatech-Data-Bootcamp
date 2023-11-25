@@ -1,8 +1,12 @@
 <img src="Vem-ser-tech.png">
-<img src="https://img.shields.io/static/v1?label=Status&message=EM_ANDAMENTO&color=blue&style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Status&message=EM_ANDAMENTO&color=blue&style=for-the-badge"/>
+</p>
 <p>O <a href="https://ada.tech/sou-aluno/programas/ifood-vem-ser-tech" target="_blank">Vem Ser Tech - Dados</a> é um programa desenvolvido pela <a href="https://ada.tech/" target="_blank">Ada Tech</a> em parceria com o <a href="https://potenciatech.com.br/" target="_blank">Potência Tech</a>, projeto fundado pelo iFood que promove a inclusão e viabiliza a entrada de pessoas no mercado de tecnologia.</p>
 <p>Esse repositório é dedicado ao meu aprendizado durante essa jornada na área de Dados. Nele você encontrará aulas, exercícios e projetos desenvolvidos durante o curso. Abaixo você também encontrará a trilha e a carga horaria que foi dedicada ao curso.</p>
-<img src="Trilha.png">
+<p align="center">
+  <img src="Trilha.png">
+</p>
 <p>Como pode ver acima a trilha do curso é divida em seis módulos:</p>
 <ul>
   <li><a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/Modulo-01">Módulo 1: Lógica de Programação com Python I;</a></li>
