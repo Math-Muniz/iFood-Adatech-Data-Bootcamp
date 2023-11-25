@@ -172,5 +172,4 @@ Refrigerante - 1
   <li>cada entregador deve entregar, em uma única corrida, no máximo 5 pedidos;</li>
   <li>as casas de destino que serão atribuídas a um mesmo entregador serão todas quelas que estão a um raio de no máximo 10 km do restaurante, respeitando a regra anterior.</li>
 </ul>
-<p>10) Para bem distribuir os pedidos aos entregadores disponíveis, um aplicativo de delivery usa a seguinte regra:</p>
-Considere que como input do problema, recebemos uma lista em que cada elemento armazena a distância (de linha reta) em km entre a casa que fez o respectivo pedido e o restaurante. Faça um código que distribua estes pedidos a um dado entregador, seguindo as regras acima, de modo que a saída deve ser uma lista que contém os índices dos elementos da lista original que farão parte da corrida do entregador - considere que os primeiros elementos da lista têm prioridade.</p>
+<p>Considere que como input do problema, recebemos uma lista em que cada elemento armazena a distância (de linha reta) em km entre a casa que fez o respectivo pedido e o restaurante. Faça um código que distribua estes pedidos a um dado entregador, seguindo as regras acima, de modo que a saída deve ser uma lista que contém os índices dos elementos da lista original que farão parte da corrida do entregador - considere que os primeiros elementos da lista têm prioridade.</p>
