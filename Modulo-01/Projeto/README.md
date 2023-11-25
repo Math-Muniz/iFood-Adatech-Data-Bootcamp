@@ -15,4 +15,4 @@
 <p>Essa abordagem resultou em código legível, simples e conciso que são características essenciais do código de produção de alta qualidade, crucial para a colaboração e manutenção contínua no desenvolvimento de software até por que um Cientista de Dados também precisa entender de código.</p>
 <p>Além disso, durante o projeto, aprofundei meus conhecimentos em estatística, explorei ainda mais o algoritmo de Machine Learning KNN e adquiri um entendimento mais sólido do NPS, que antes eu não tinha tanta experiência. No geral, essa experiência foi incrível e me proporcionou uma ótima oportunidade de aprendizado.</p>
 <h1 align="center">Meu artigo sobre o Projeto:</h1>
-<a href="https://medium.com/@math-muniz/desafio-ifood-construindo-um-algoritmo-k-nearest-neighbors-do-zero-para-prever-net-promoter-score-2e9ed41290d5">Medium</a>
+<h2 align="center"><a href="https://medium.com/@math-muniz/desafio-ifood-construindo-um-algoritmo-k-nearest-neighbors-do-zero-para-prever-net-promoter-score-2e9ed41290d5">Medium</a></h2>
