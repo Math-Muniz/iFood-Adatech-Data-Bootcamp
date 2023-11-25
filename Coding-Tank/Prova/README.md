@@ -45,8 +45,8 @@ e) nda
 restaurantes_idade = []
 
 for lista in restaurantes_ano:
+#o código da alternativa correta deve vir aqui
 
-    #o código da alternativa correta deve vir aqui
 </pre>
 <p>Ao revisar este código, qual das alternativas a seguir produz o mesmo resultado?</p>
 <pre>
