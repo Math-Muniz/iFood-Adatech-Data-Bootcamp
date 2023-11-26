@@ -1,0 +1,15 @@
+Resolva de forma mais eficiente e sucinta usando listas e/ou tuplas:
+
+> Faça um programa que olhe todos os itens de uma lista e diga quantos deles são pares.
+
+> Faça um programa que imprima o maior número de uma lista, sem usar o método max()
+
+> Faça um Programa que peça as 4 notas bimestrais e mostre a média, usando listas.
+
+> Considere que temos uma lista com os nomes de todos os alunos de uma turma, e outra com as notas, na mesma ordem. Como faríamos para acessar, simultaneamente, o nome de um aluno e a sua nota?
+
+> Para que a entrega de alimentos seja feita com qualidade por um serviço de delivery, é muito importante que as caixas de transporte utilizadas por entregadores tenham um revestimento térmico interno, para manter a temperatura dos alimentos. Muitos destes revestimentos são importados de países que utilizam diferentes escalas de temperatura, de modo que as especificações quanto às temperaturas de operação podem gerar confusão.
+
+Pensando nisso, escreva um código em Python que recebe um número (que possa ter casas decimais) e a escala de temperatura em que este valor se encontra e para qual ele deseja converter (Celsius, Kelvin ou Fahrenheit). Tanto na escala em que se encontra quanto para a que deseja converter, utilize as letras iniciais como entrada: Celsius - 'C', Kelvin - 'K' ou Fahrenheit - 'F'.
+
+Importante: o programa deve trabalhar apenas com as 3 escalas supracitadas! Então, não deixe de fazer as validações necessárias. Além disso, por definição, não existem temperaturas em Kelvin abaixo de zero (o valor zero pode existir), portanto verifique também esta condição para que sejam feitas conversões válidas!
