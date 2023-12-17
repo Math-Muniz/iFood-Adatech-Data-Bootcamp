@@ -9,12 +9,13 @@
 </p>
 <p>Como pode ver acima a trilha do curso é divida em seis módulos:</p>
 <ul>
-  <li><a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-01">Módulo 1: Lógica de Programação com Python I;</a></li>
-  <li><a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-02">Módulo 2: Lógica de Programação com Python II;</a></li>
-  <li><a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-03">Módulo 3: Banco de Dados I;</a></li>
-  <li><a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-04">Módulo 4: Visualização com Power BI;</a></li>
-  <li><a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-05">Módulo 5: Técnicas de Programação com Python I;</a></li>
-  <li><a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-06">Módulo 6: Estatística I.</a></li>
+  <li>[X]<a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-01">Módulo 1: Lógica de Programação com Python I;</a></li>
+  <li>[X]<a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-02">Módulo 2: Lógica de Programação com Python II;</a></li>
+  <li>[X]<a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-03">Módulo 3: Banco de Dados I;</a></li>
+  <li>[ ]<a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-04">Módulo 4: Visualização com Power BI;</a></li>
+  <li>[ ]<a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-05">Módulo 5: Técnicas de Programação com Python I;</a></li>
+  <li>[ ]<a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-06">Módulo 6: Estatística I.</a></li>
+  <li>[ ]<a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-07">Módulo 7: Orientação de Carreira.</a></li>
 </ul>
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/math-muniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
