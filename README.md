@@ -7,7 +7,7 @@
 <p align="center">
   <img src="Trilha.png">
 </p>
-<p>Como pode ver acima a trilha do curso é divida em seis módulos:</p>
+<p>Como pode ver acima a trilha do curso é divida em seis módulos técnicos e um voltado para softskill:</p>
 <ul>
   <li>[X] <a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-01">Módulo 1: Lógica de Programação com Python I;</a></li>
   <li>[X] <a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-02">Módulo 2: Lógica de Programação com Python II;</a></li>
