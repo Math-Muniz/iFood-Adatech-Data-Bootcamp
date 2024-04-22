@@ -16,6 +16,7 @@
   <li>[X] <a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-05">Módulo 5: Técnicas de Programação com Python I;</a></li>
   <li>[X] <a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-06">Módulo 6: Estatística I.</a></li>
   <li>[X] <a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-07">Módulo 7: Orientação de Carreira.</a></li>
+  <li>[X] <a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-07">Módulo 8: Hackathon ADA Tech.</a></li>
 </ul>
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/math-muniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
