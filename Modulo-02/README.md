@@ -4,13 +4,12 @@
 </p>
 <h2 align="center">Conteúdo do Módulo:</h2>
 <ul>
-  <li>Conexão com os dados no Power BI;</li>
-  <li>Primeiros Passos no Power BI;</li>
-  <li>Filtros no Power BI;</li>
-  <li>Métricas no Power BI;</li>
-  <li>Visualizações no Power BI;</li>
-  <li>Power Query;</li>
-  <li>Dashboard no Power BI;</li>
-  <li>Publicação no Power BI;</li>
-  <li>Projeto do Módulo: Pitch - Startup sobre Visão Computacional</li>
+  <li>Tuplas;</li>
+  <li>Dicionários;</li>
+  <li>Compreensão de listas e expressões geradoras;</li>
+  <li>Parâmetros e retorno de funções;</li>
+  <li>Conceitos de Programação Funcional;</li>
+  <li>Tratamento de Exceção;</li>
+  <li>Arquivos;</li>
+  <li>Projeto do Módulo: Pitch - Startup sobre Visão Computacional. </li>
 </ul>
