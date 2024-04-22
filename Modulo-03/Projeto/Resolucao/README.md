@@ -21,7 +21,7 @@ Danny criou a Foodie-Fi com uma mentalidade orientada por dados e queria garanti
 
 A condução da análise foi realizada com o PostgreSQL.
 
-Os scripts de criação e inserção de dados estão no arquivo [tabelas.sql](https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/tabelas.sql). Mas você também pode encontrar as tabelas em formato *.csv* na pasta [dataset](https://github.com/felipeoliveirafranco/vem-ser-tech-dados/tree/main/modulo03/projeto-final/dataset).
+Os scripts de criação e inserção de dados estão no arquivo [tabelas.sql](https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/blob/main/Modulo-03/Projeto/SQL/tabelas.sql). Mas você também pode encontrar as tabelas em formato *.csv* na pasta [dataset](https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-03/Projeto/Dataset).
 
 ### Diagrama Entidade-Relacionamento
 
