@@ -109,7 +109,7 @@ Ao cancelarem o serviço (churn), os clientes manterão o acesso até o final do
 
 Para realizar a análise e emitir um relatório para o Danny, fizemos algumas perguntas.
 
-Os scripts encontram-se nesse [arquivo](https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/script.sql).
+Os scripts encontram-se nesse [arquivo](https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/blob/main/Modulo-03/Projeto/SQL/script.sql).
 
 &nbsp;
 
