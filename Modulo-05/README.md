@@ -6,8 +6,8 @@
 <ul>
   <li>Github;</li>
   <li>Numpy;</li>
-  <li>Filtros no Power BI;</li>
-  <li>Pandas: <a href="https://colab.research.google.com/drive/14z15XgcVt1lqXJRe-JOXGQV6Fz6aRLDe?usp=sharing">House Prices - Advanced Regression Techniques.</a>
+  <li>Pandas;</li>
+  <li>Projeto: <a href="https://colab.research.google.com/drive/14z15XgcVt1lqXJRe-JOXGQV6Fz6aRLDe?usp=sharing">House Prices - Advanced Regression Techniques.</a>
 </li>
 </ul>
 
