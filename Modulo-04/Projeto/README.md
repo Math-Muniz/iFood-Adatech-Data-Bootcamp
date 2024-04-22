@@ -4,7 +4,7 @@
 É importante ressaltar que, embora o dataset contenha 100 mil ordens, nossa análise se concentrou em 4512 ordens únicas dos vendedores.
 Aqui está um breve resumo dos principais insights que obtive ao analisar cada Dashboard:</p>
 
-<h2>Dashboard 1: Dominância Paulista entre os Vendedores<h2>
+<h2>Dashboard 1: Dominância Paulista entre os Vendedores</h2>
 <p>São Paulo se destaca, representando mais de 50% das ordens, enquanto o Rio de Janeiro surpreende ao ocupar o 4º lugar em quantidade de vendedores e o 2º lugar em volume de ordens.</p>
 
 <h2>Dashboard 2: Eficácia em Beleza e Saúde</h2>
