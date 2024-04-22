@@ -4,7 +4,7 @@
 
 &nbsp;
 
-Esse projeto faz parte do [módulo de Banco de Dados](https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/readme.md).
+Esse projeto faz parte do [módulo de Banco de Dados](https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-03).
 Para isso, foi criado um contexto de negócio.
 
 Iremos trabalhar com o caso da plataforma de Streaming 🥑 Foodie-Fi 🥑.
@@ -28,7 +28,7 @@ Os scripts de criação e inserção de dados estão no arquivo [tabelas.sql](ht
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/images/image14.png" width="60%"/>
+<img src="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/blob/main/Modulo-03/Projeto/Images/image14.png" width="60%"/>
 </div>
 
 &nbsp;
@@ -117,7 +117,7 @@ Os scripts encontram-se nesse [arquivo](https://github.com/felipeoliveirafranco/
 
 &nbsp;
 
-<img src="https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/images/image02.png" width="60%"/>
+<img src="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/blob/main/Modulo-03/Projeto/Images/image02.png" width="60%"/>
 
 &nbsp;
 
@@ -129,7 +129,7 @@ Os scripts encontram-se nesse [arquivo](https://github.com/felipeoliveirafranco/
 
 &nbsp;
 
-<img src="https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/images/image03.png" width="60%"/>
+<img src="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/blob/main/Modulo-03/Projeto/Images/image03.png" width="60%"/>
 
 &nbsp;
 
@@ -158,7 +158,7 @@ Os scripts encontram-se nesse [arquivo](https://github.com/felipeoliveirafranco/
 
 &nbsp;
 
-<img src="https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/images/image04.png" width="60%"/>
+<img src="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/blob/main/Modulo-03/Projeto/Images/image04.png" width="60%"/>
 
 &nbsp;
 
@@ -180,7 +180,7 @@ Os scripts encontram-se nesse [arquivo](https://github.com/felipeoliveirafranco/
 
 &nbsp;
 
-<img src="https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/images/image05.png" width="60%"/>
+<img src="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/blob/main/Modulo-03/Projeto/Images/image05.png" width="60%"/>
 
 &nbsp;
 
@@ -198,7 +198,7 @@ Os scripts encontram-se nesse [arquivo](https://github.com/felipeoliveirafranco/
 
 &nbsp;
 
-<img src="https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/images/image06.png" width="60%"/>
+<img src="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/blob/main/Modulo-03/Projeto/Images/image06.png" width="60%"/>
 
 &nbsp;
 
@@ -217,7 +217,7 @@ Os scripts encontram-se nesse [arquivo](https://github.com/felipeoliveirafranco/
 
 &nbsp;
 
-<img src="https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/images/image07.png" width="60%"/>
+<img src="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/blob/main/Modulo-03/Projeto/Images/image07.png" width="60%"/>
 
 &nbsp;
 
@@ -239,7 +239,7 @@ Os scripts encontram-se nesse [arquivo](https://github.com/felipeoliveirafranco/
 
 &nbsp;
 
-<img src="https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/images/image08.png" width="60%"/>
+<img src="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/blob/main/Modulo-03/Projeto/Images/image08.png" width="60%"/>
 
 &nbsp;
 
@@ -263,7 +263,7 @@ Os scripts encontram-se nesse [arquivo](https://github.com/felipeoliveirafranco/
 
 &nbsp;
 
-<img src="https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/images/image09.png" width="60%"/>
+<img src="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/blob/main/Modulo-03/Projeto/Images/image09.png" width="60%"/>
 
 &nbsp;
 
@@ -276,7 +276,7 @@ Os scripts encontram-se nesse [arquivo](https://github.com/felipeoliveirafranco/
 
 &nbsp;
 
-<img src="https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/images/image10.png" width="60%"/>
+<img src="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/blob/main/Modulo-03/Projeto/Images/image10.png" width="60%"/>
 
 &nbsp;
 
@@ -289,7 +289,7 @@ Os scripts encontram-se nesse [arquivo](https://github.com/felipeoliveirafranco/
 
 &nbsp;
 
-<img src="https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/images/image11.png" width="60%"/>
+<img src="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/blob/main/Modulo-03/Projeto/Images/image11.png" width="60%"/>
 
 &nbsp;
 
@@ -316,7 +316,7 @@ Os scripts encontram-se nesse [arquivo](https://github.com/felipeoliveirafranco/
 
 &nbsp;
 
-<img src="https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/images/image12.png" width="60%"/>
+<img src="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/blob/main/Modulo-03/Projeto/Images/image12.png" width="60%"/>
 
 &nbsp;
 
