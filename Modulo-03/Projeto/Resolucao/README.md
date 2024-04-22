@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/images/image00.png" width="100%"/>
+<img src="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp/tree/main/Modulo-03/Projeto/Images/image00.png" width="100%"/>
 </div>
 
 &nbsp;
