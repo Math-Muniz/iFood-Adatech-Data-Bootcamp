@@ -12,5 +12,5 @@
   <li>Power Query;</li>
   <li>Dashboard no Power BI;</li>
   <li>Publicação no Power BI;</li>
-  <li>Projeto do Módulo: Análise Brazilian E-Commerce Public Dataset by Olist.</li>
+  <li>Projeto do Módulo: Pitch - Startup sobre Visão Computacional</li>
 </ul>
